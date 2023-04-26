@@ -1,0 +1,7 @@
+a=input ("Hola, ¿cúal es tu nombre? ")
+print ("Hola",a)
+b= int(input("¿Qué edad tienes? "))
+if b<18:
+    print ("ilegal!")
+else:
+  print("oh, you are legal")

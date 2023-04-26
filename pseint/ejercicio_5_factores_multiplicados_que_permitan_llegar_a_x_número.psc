@@ -1,0 +1,4 @@
+Algoritmo ejercicio_5_factores_multiplicados_que_permitan_llegar_a_x_número
+	leer v
+	
+FinAlgoritmo

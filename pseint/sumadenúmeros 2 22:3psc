@@ -1,0 +1,11 @@
+Algoritmo sumadenúmeros2
+	Leer n
+	contador=0
+	suma=0
+	Mientras contador<n Hacer
+		leer num
+		suma=suma+num
+		contador=contador+1
+	Fin Mientras
+	Escribir "la suma es",suma
+FinAlgoritmo
